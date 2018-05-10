@@ -1,0 +1,11 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\bin\Debug\Process.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\bin\Debug\Process.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\bin\Debug\ZedGraph.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.GForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Process\Process\obj\Debug\Process.PForm.resources
